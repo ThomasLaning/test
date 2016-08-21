@@ -1,0 +1,15 @@
+Dyer,Miranda,Georgia,35,5,United States
+Ahmed,Amaan,Virginia,26,1,United States
+Laning,Aidan,Virginia,18,1,United States
+Smith,Micheal,Florida,42,5,Middle East
+Jones,Brittany,Florida,55,3,United States
+Pease,Wallace,New England,35,7,South America
+Smith,John,Virginia,40,2,South America
+Johnson,Mary,Georgia,25,6,Europe
+Todd,Barbara,Virginia,37,9,Middle East
+Thomas,Carl,South Carolina,29,10,United States
+Callahand,Rob,North Carolina,45,4,Europe
+Garcia,Joan,New England,42,6,South America
+Huff,Albert,Florida,33,9,Europe
+Davis,Sarah,Virginia,60,4,United States
+Ross,Ashley,Georgia,20,8,South America

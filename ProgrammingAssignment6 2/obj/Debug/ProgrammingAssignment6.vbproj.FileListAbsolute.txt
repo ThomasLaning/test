@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ProgrammingAssignment6\ProgrammingAssignment6\bin\Debug\ProgrammingAssignment6.exe.config
+C:\Users\user\Desktop\ProgrammingAssignment6\ProgrammingAssignment6\bin\Debug\ProgrammingAssignment6.exe
+C:\Users\user\Desktop\ProgrammingAssignment6\ProgrammingAssignment6\bin\Debug\ProgrammingAssignment6.pdb
+C:\Users\user\Desktop\ProgrammingAssignment6\ProgrammingAssignment6\bin\Debug\ProgrammingAssignment6.xml
+C:\Users\user\Desktop\ProgrammingAssignment6\ProgrammingAssignment6\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\Desktop\ProgrammingAssignment6\ProgrammingAssignment6\obj\Debug\ProgrammingAssignment6.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\ProgrammingAssignment6\ProgrammingAssignment6\obj\Debug\ProgrammingAssignment6.exe
+C:\Users\user\Desktop\ProgrammingAssignment6\ProgrammingAssignment6\obj\Debug\ProgrammingAssignment6.xml
+C:\Users\user\Desktop\ProgrammingAssignment6\ProgrammingAssignment6\obj\Debug\ProgrammingAssignment6.pdb
+C:\Users\user\Desktop\ProgrammingAssignment6\ProgrammingAssignment6\obj\Debug\WindowsApplication1.frmGoAndTellMissions.resources
